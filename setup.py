@@ -7,7 +7,7 @@ readme.close()
 setup(
     name='sqla_hierarchy',
     packages=['sqla_hierarchy'],
-    version='0.1',
+    version='0.1-datamarket',
     description='Adjacency List Relationships helper (only using databases own implementations)',
     long_description=README_TEXT,
     author='Mariano Mara',
